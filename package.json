@@ -71,6 +71,6 @@
     "urlpattern-polyfill": "6.0.1"
   },
   "engines": {
-    "node": ">=19.0.0"
+    "node": ">=14.6"
   }
 }
